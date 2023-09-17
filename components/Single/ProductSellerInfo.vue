@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full">
+  <div class="w-full product-seller">
     <div class="single-seller-main-info w-[278px] h-[165px] bg-white rounded-[16px] p-4 mx-8">
       <nuxt-link to="/profile">
         <div class="flex">

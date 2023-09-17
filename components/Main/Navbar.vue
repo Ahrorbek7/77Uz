@@ -20,21 +20,23 @@
       <div>
         <p class="contact-phone text-[14px] font-[500] leading-7 nuil">
           <i class="bi bi-telephone"></i>
-          +998509045050
+          <a href="tel:+998509009090">+998509045050</a>
         </p>
 
         <a href="tel:+998509045050"><i class="bi bi-telephone hidden phone-mobile"></i></a>
       </div>
     </div>
-    <div
-      class="navbar-logo w-[170px] h-[100px] rounded-b-[20px] bg-white shadow-md flex items-center justify-center mx-auto border">
+    <a href="https://devjobs-web.netlify.app/" class="mx-auto">
+      <div
+      class="navbar-logo w-[170px] h-[100px] rounded-b-[20px] bg-white shadow-md flex items-center justify-center border">
       <div
         class="navbar-logo--inline w-[134px] h-[64px] border-[4px] border-special-blue mt-4 rounded-[10px] flex items-center justify-center">
         <div class="bg-special-blue w-[90%] h-[85%] rounded-sm flex items-center justify-center">
           <h1 class="text-2xl font-bold text-white">77.uz</h1>
         </div>
       </div>
-    </div>
+    </div>  
+    </a>
     <button @click="openEnterModal" class="logout-btn absolute w-[118px] h-[40px] bg-grey-4 rounded-[8px] right-[137px]">
       <p class="title font-[600] text-[14px] leading-8">
         {{ $t(`enter`) }}

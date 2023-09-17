@@ -13,7 +13,7 @@
     <div
       v-for="(category, index) in categories"
       :key="index"
-      class="category-card w-[336px] h-[85px] rounded-[12px] border m-2 flex items-center cursor-pointer"
+      class="category-card w-[336px] h-auto p-2 rounded-[12px] border m-2 flex items-center cursor-pointer relative"
       :style="[
         category.isExpand
           ? {

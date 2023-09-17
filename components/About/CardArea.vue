@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-4 mx-5">
+    <div class="mt-4 mx-5 search-card-container">
         <h1 class="text-[32px] text-special-black leading-10 font-bold mt-3">
           {{ $t(`search-results`) }}
         </h1>
@@ -7,7 +7,8 @@
         <p class="text-[14px] leading-6 font-[500] mt-2 text-grey-1">
           156 {{ $t(`category.ads`) }}
         </p>
-        <nuxt-link to="/single">
+        <div>
+          <nuxt-link to="/single">
           <div
             class="lap-card w-[882px] h-[135px] flex border bg-white rounded-[12px] py-1 px-1 my-2 relative cursor-pointer"
             v-for="(laptop, index) in laptops" :key="index">
@@ -45,7 +46,8 @@
               </p>
             </div>
           </div>
-        </nuxt-link>
+        </nuxt-link>  
+        </div>
       </div>
 </template>
 

@@ -1,5 +1,5 @@
 <template>
-     <div class="mx-6">
+     <div class="mx-6 product-heading-info">
             <span class="single-product-address flex items-center my-4">
                 <p class="text-[14px] leading-7 text-grey-1 capitalize">{{ $t(`electronics`) }} </p>
                 <i class="bi bi-chevron-right text-[7px] text-gey-1 mx-2"></i>

@@ -18,10 +18,10 @@
         <img class="mx-1 w-[18px] h-[18px] mt-1" src="../../assets/img/bottomI.jpg" alt="" />
         {{ $t(`bulletin-board`) }}
       </a>
-      <a class="flex font-[600] text-[16px] text-special-black m-3" href="#">
+      <nuxt-link to="/usage" class="flex font-[600] text-[16px] text-special-black m-3" href="#">
         <img class="mx-1 w-[18px] h-[18px] mt-1" src="../../assets/img/bottomI.jpg" alt="" />
         {{ $t(`terms-of-use`) }}
-      </a>
+      </nuxt-link>
       <a class="flex font-[600] text-[16px] text-special-black m-3" href="tel:+998509045050">
         <img class="mx-1 w-[18px] h-[18px] mt-1" src="../../assets/img/bottomI.jpg" alt="" />
           +998 88 500 50 00

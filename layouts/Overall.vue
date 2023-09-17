@@ -1,5 +1,5 @@
 <template>
-    <div class="container bg-slate-bg overflow-y-auto">
+    <div class="container-fluid bg-slate-bg overflow-y-auto w-[100vw]">
         <MainNavbar />
             <slot />
     <MainFooter />

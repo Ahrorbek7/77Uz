@@ -1,7 +1,7 @@
 <template>
     <Overall>
       <AboutPageAddress />
-    <div class="flex flex-wrap">
+    <div class="flex">
 
       <!-- Default filter  -->
       <div class="filter mt-[35px] ml-[128px] rounded-[12px] border w-[278px] h-[850px] bg-white">
@@ -9,7 +9,7 @@
           {{ $t(`filter`) }}
         </h3>
 
-        <!-- Filtering vilayats  -->
+        <!-- Filtering regions  -->
         <p class="text-[14px] text-grey-0 leading-5 m-3">{{ $t(`region`) }}</p>
         <div class="flex w-[93%] mx-auto py-2 rounded-[8px]">
           <el-select v-model="selectedRegion" class="w-[100%]" size="large">
@@ -19,7 +19,7 @@
           </el-select>
         </div>
 
-        <!-- Filtering by regions  -->
+        <!-- Filtering by cities  -->
         <p class="text-[14px] text-grey-0 leading-5 mx-4 my-2">
           {{ $t(`city`) }}
         </p>
@@ -64,10 +64,20 @@
           {{ $t(`filter`) }}
         </h3>
         <p class="text-[14px] text-grey-0 leading-5 m-3">{{ $t(`region`) }}</p>
-        <div class="flex w-[93%] mx-auto py-2 px-3 rounded-[8px]">
+        <div class="flex w-[93%] mx-auto py-2 rounded-[8px]">
           <el-select v-model="selectedRegion" class="w-[100%]" size="large">
-            <el-option v-for="option in options" :key="option.id" :value="option.title">
-              {{ $t(`vilayats.${option.id}.title`) }}
+            <el-option v-for="city in cities" :key="city.id" :value="city.title">
+              {{ $t(`vilayats.${city.id}.title`) }}
+            </el-option>
+          </el-select>
+        </div>
+        <p class="text-[14px] text-grey-0 leading-5 mx-4 my-2">
+          {{ $t(`city`) }}
+        </p>
+        <div class="flex w-[93%]  mx-auto py-2 rounded-[8px]">
+          <el-select v-model="selectedCity" class="w-[100%]" size="large">
+            <el-option v-for="city in cities" :key="city.id" :value="city.title">
+              {{ $t(`cities.${city.id}.title`) }}
             </el-option>
           </el-select>
         </div>
