@@ -1,0 +1,114 @@
+{
+    "laptops":[
+        {
+            "name": "Asus Zenbook Pro Duo 14",
+            "postedDate": "Wed Sep 13 2023 16:07:13 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Tashkent",
+            "phoneNumber":"+998 71 200 70 07",
+            "city":"Bektemir",
+            "price": 7500000,
+            "postedTime": "13:50",
+            "img":"https://i.postimg.cc/d73DP5Gp/image.png"
+        },
+        {
+            "name": "Asus Chromebook Flip CX5",
+            "postedDate": "Tue Sep 12 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Samarkand",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 10432000,
+            "city": "Urgut",
+            "postedTime": "21:24",
+            "img":"https://i.postimg.cc/JGRrCTLx/image.png"
+        },
+        {
+            "name": "Samsung Galaxy Tab S8 Ultra.",
+            "postedDate": "Wed Sep 06 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Fergana",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 4975000,
+            "city":"Kokand",
+            "postedTime": "11:09",
+            "img":"https://i.postimg.cc/2LSCh6TJ/image.png"
+        },
+        {
+            "name": "HUAWEI MatePad Pro 12.6",
+            "postedDate": "Tue Jun 13 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Andijan",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 6780000,
+            "city":"Asaka",
+            "postedTime": "14:00",
+            "img":"https://i.postimg.cc/34wqZv5g/image.png"
+        },
+        {
+            "name": "Apple MacBook Air (M2)",
+            "postedDate": "Mon Jun 13 2022 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Bukhara",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 16000000,
+            "city":"Gijduvan",
+            "postedTime": "07:29",
+            "img":"https://i.postimg.cc/MfVm06T7/image.png"
+        },
+        {
+            "name": "Asus Zenbook Pro Duo 14",
+            "postedDate": "Tue Sep 12 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Jizzakh",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 10908789,
+            "city":"Shurchi",
+            "postedTime": "08:35",
+            "img":"https://i.postimg.cc/d73DP5Gp/image.png"
+        },
+        {
+            "name": "Asus Chromebook Flip CX5",
+            "postedDate": "Thu Apr 13 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Kashkadarya",
+            "phoneNumber":"+998 71 200 70 07",
+            "postedTime": "23:53",
+            "city":"Shakhrisabz",
+            "price": 1234000,
+            "img":"https://i.postimg.cc/JGRrCTLx/image.png"
+        },
+        {
+            "name": "Samsung Galaxy Tab S8 Ultra.",
+            "postedDate": "Thu Aug 31 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Navoi",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 7899990,
+            "city":"Navoi",
+            "postedTime": "13:29",
+            "img":"https://i.postimg.cc/2LSCh6TJ/image.png"
+        },
+        {
+            "name": "HUAWEI MatePad Pro 12.6",
+            "postedDate": "Wed Sep 13 2023 16:07:13 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Namangan",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 900000,
+            "city":"Pop",
+            "postedTime": "17:15",
+            "img":"https://i.postimg.cc/34wqZv5g/image.png"
+        },
+        {
+            "name": "Asus Zenbook Pro Duo 14",
+            "postedDate": "Wed Sep 13 2023 16:07:13 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Tashkent",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 7500000,
+            "city":"Qibray",
+            "postedTime": "19:40",
+            "img":"https://i.postimg.cc/d73DP5Gp/image.png"
+        },
+        {
+            "name": "Asus Chromebook Flip CX5",
+            "postedDate": "Tue Sep 12 2023 00:00:00 GMT+0500 (Uzbekistan Standard Time)",
+            "region":"Fergana",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": 10432000,
+            "city":"Chust",
+            "postedTime": "18:07",
+            "img":"https://i.postimg.cc/JGRrCTLx/image.png"
+        }
+    ]
+}

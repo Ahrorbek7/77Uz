@@ -1,0 +1,33 @@
+{
+    "filterSubcategories": [
+        {
+          "title": "Все разделы",
+          "isDisabled": true
+        },
+        {
+          "title": "Парфюмерия",
+          "isDisabled": true
+        },
+        {
+          "title": "Ноутбуки и планшеты",
+          "checked": true,
+          "isDisabled": false
+        },
+        {
+          "title": "Лицо",
+          "isDisabled": true
+        },
+        {
+          "title": "Тело и ванна",
+          "isDisabled": true
+        },
+        {
+          "title": "Макияж",
+          "isDisabled": true
+        },
+        {
+          "title": "Мужчинам",
+          "isDisabled": true
+        }
+      ]
+}

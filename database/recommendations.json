@@ -1,0 +1,35 @@
+{
+    "filteredRecommendations":[
+        { "title": "Kompyuter uchun sichqonchalar" },
+        { "title": "Telefon uchun g'iloflar" },
+        { "title": "Noutbuklar" },
+        { "title": "Planshetlar" },
+        { "title": "Чехлы для телефонов" },
+        { "title": "Мышь для компьютера" },
+        { "title": "Ноутбуки" },
+        { "title": "Таблетки" },
+        { "title": "Muzlatgichlar" },
+        { "title": "Televizorlar" },
+        { "title": "Telefonlar" },
+        { "title": "Maishiy texnika" },
+        { "title": "Mikrovolnovka" },
+        { "title": "Oshxona jihozlari" },
+        { "title": "Akkumlyatorlar" },
+        { "title": "Холодильники" },
+        { "title": "Телевизоры" },
+        { "title": "Телефоны" },
+        { "title": "Бытовая техника" },
+        { "title": "Микроволновки" },
+        { "title": "Кухонная мебель" },
+        { "title": "Аккумуляторы" }
+    ],
+    "defaultRecommendations":[
+        {"id":0, "title": "Muzlatgichlar" },
+        {"id":1, "title": "Televizorlar" },
+        {"id":2, "title": "Telefonlar" },
+        {"id":3, "title": "Maishiy texnika" },
+        {"id":4, "title": "Mikrovolnovka" },
+        {"id":5, "title": "Oshxona jihozlari" },
+        {"id":6, "title": "Akkumlyatorlar" }
+    ]
+}

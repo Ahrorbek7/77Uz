@@ -1,0 +1,20 @@
+{
+    "images":[
+        {
+            "id": "1",
+            "url": "https://www.carscoops.com/wp-content/uploads/2023/02/E-2026-Toyota-Century-V12-SUV-2-Carscoops-Copy-1024x683.jpg"
+          },
+          {
+            "id": "2",
+            "url": "https://www.autotrader.com/wp-content/uploads/2021/09/2021-nissan-gt-r-front-left.jpg"
+          },
+          {
+            "id": "3",
+            "url": "https://hips.hearstapps.com/hmg-prod/images/bmw-i7-xdrive-oxid-grey-hero-jpg-1667672015.jpg?crop=0.694xw:0.779xh;0.115xw,0.173xh&resize=640:*"
+          },
+          {
+            "id": "4",
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwq_l8_4_tHMk-6Rvwyi4ShwvJWatw2XJ5YRq5ULt4M2taYhwp1cOM60mgPbJA0MJDMM4&usqp=CAU"
+          }
+    ]
+}

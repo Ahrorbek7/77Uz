@@ -1,0 +1,39 @@
+{
+        "productCategories": [
+            {
+              "id": 0,
+              "imgSrc":"https://www.carscoops.com/wp-content/uploads/2023/02/E-2026-Toyota-Century-V12-SUV-2-Carscoops-Copy-1024x683.jpg",
+              "subcategoryCount": 6
+            },
+            {
+              "id": 1,
+              "imgSrc": "https://i.postimg.cc/V06nCmMD/nev-pod.jpg",
+              "subcategoryCount": 12
+            },
+            {
+              "id": 2,
+              "imgSrc": "https://i.postimg.cc/7frqhmkT/dom-pod.jpg",
+              "subcategoryCount": 12
+            },
+            {
+              "id": 3,
+              "imgSrc": "https://i.postimg.cc/XBGKPnJX/child-pod.jpg",
+              "subcategoryCount": 12
+            },
+            {
+              "id": 4,
+              "imgSrc": "https://i.postimg.cc/LgR0Kqch/rab-pod.jpg",
+              "subcategoryCount": 12
+            },
+            {
+              "id": 5,
+              "imgSrc": "https://i.postimg.cc/Ny6zN7nZ/ele-pod.jpg",
+              "subcategoryCount": 12
+            },
+            {
+              "id": 6,
+              "imgSrc": "https://i.postimg.cc/McvCdQwS/jiv-pod.jpg ",
+              "subcategoryCount": 12
+            }
+          ]
+}

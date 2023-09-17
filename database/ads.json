@@ -1,0 +1,112 @@
+{
+    "ads":[
+        {
+            "name": "Кепки Corneliani Diamond for him edition.",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "2 599 000",
+            "status": "moderation",
+            "img":"https://i.postimg.cc/4KwPYJQT/image.png"
+        },
+        {
+            "name": "Chevrolet Onix 1.2 Turbo в наличии",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Самарканд",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "204 000 000",
+            "status": "moderation",
+            "img":"https://www.autostrada.uz/wp-content/uploads/2023/01/chevrolet-onix-premier.png"
+        },
+        {
+            "name": "7Saber Trucker Cap",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "280 000",
+            "status": "active",
+            "img":"data:image/jpeg;base64,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"
+        },
+        {
+            "name": "Оригинальные кроссовки Nike Air Max Plus",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "status": "active",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "2 599 000",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1KpartZg33uwFkeVm12ulv2KEVCiE9mrQY_XLguylNa45hvNWSll5nCmWWG3xQhRB51Y&usqp=CAU"
+        },
+        {
+            "name": "Оригинальные кроссовки Nike Air Max 97 ",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "2 599 000",
+            "status": "moderation",
+            "img":"https://i.postimg.cc/PLYPM8zk/image.png"
+        },
+        {
+            "name": "Apple Watch Series 8 - USA Non active",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "status":"moderation",
+            "price": "4 500 000",
+            "img":"https://images.immediate.co.uk/production/volatile/sites/3/2022/09/Apple-watch-8-6a318cc.png"
+        },
+        {
+            "name": "Лучший кроссовер Geely Monjaro Limited Edition",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "status":"moderation",
+            "price": "320 000 000",
+            "img":"https://www.geelyksa.com/wp-content/uploads/2022/06/4-exterior.jpg.webp"
+        },
+        {
+            "name": "Стайлер для волос Dyson airwrap complete long",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Самарканд",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "2 599 000",
+            "status":"active",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUg2-nJIrbCKQHID1wqabUBpIRuAv0dQJhGMHwrayssQJHadiGg1OBRXGslMhoARUWT1U&usqp=CAU"
+        },
+        {
+            "name": "Оригинальные кроссовки Nike Air Max Plus",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "2 599 000",
+            "status":"active",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1KpartZg33uwFkeVm12ulv2KEVCiE9mrQY_XLguylNa45hvNWSll5nCmWWG3xQhRB51Y&usqp=CAU"
+        },
+        {
+            "name": "Кепки Corneliani Diamond for him edition.",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "2 599 000",
+            "status":"moderation",
+            "img":"https://i.postimg.cc/4KwPYJQT/image.png"
+        },
+        {
+            "name": "7Saber Trucker Cap",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Ташкент",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "280 000",
+            "status":"active",
+            "img":"data:image/jpeg;base64,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"
+        },
+        {
+            "name": "Chevrolet Onix 1.2 Turbo в наличии",
+            "postedTime": "Вчера, 19:20",
+            "location":"г. Самарканд",
+            "phoneNumber":"+998 71 200 70 07",
+            "price": "204 000 000",
+            "status":"moderation",
+            "img":"https://www.autostrada.uz/wp-content/uploads/2023/01/chevrolet-onix-premier.png"
+        }
+    ]
+}

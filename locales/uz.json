@@ -1,0 +1,1758 @@
+{
+  "enter": "Kirish",
+  "welcome": "Xush kelibsiz!",
+  "recommendation": "Tavsiyalar",
+  "enter-system-text": "Tizimda savdo qilish uchun tizimga kiring",
+  "login": "Login",  
+  "photo":"Rasm",
+  "thanks":"Raxmat",
+  "search-results":"Qidiruv natijalari",
+  "applied-order":"Sizning arizangiz qabul qilindi!",
+  "enter-fullname":"To'liq ismingizni kiriting",
+  "contact-help-text":"Parolni unutdingizmi? Parolni tiklash uchun, iltimos, administrator bilan bog'laning",
+  "enter-product-name":"Mahsolot nomini kiriting",
+  "enter-address":"Manzilingizni kiriting",
+  "applied-order-txt":"Xodimlarimiz tez orada siz bilan bog'lanadi",
+  "password": "Parol",
+  "load-more": "Ko'proq yuklash",
+  "electronics": "Elektronika",
+  "main": "Asosiy",
+  "single-product-local-name": "Malibu 2 turbo Epsilon 2XX 1,5 l va hajmi 2,0 l va quvvati 253 l/s turbodizel.",
+  "address": "Manzil",
+  "my-ads": "Mening reklamalarim",
+  "personal-data": "Shaxsiy ma'lumotlar",
+  "exit": "Chiqish",
+  "subcategory": "Pastki toifalar",
+
+  "product-modal-categories": {
+    "0":{
+      "title": "Transport"
+    },
+    "1":{
+      "title": "Ushbu hududdagi mulklar"
+    },
+    "2":{
+      "title": "Uy va bog'"
+    },
+    "3":{
+      "title": "Hayvonlar"
+    },
+    "4":{
+      "title": "Ish"
+    },
+    "5":{
+      "title": "Elektronika"
+    },
+    "6":{
+      "title": "Uy hayvonlari uchun tovarlar"
+    }
+  },
+
+
+  "transport": "Transport",
+  "active": "Faol",
+  "back": "Orqaga",
+  "cancellation-created-ad": "Reklamani bekor qilish",
+  "cancel-ad-warning-txt": "Siz rostdan ham reklama yaratishni bekor qilsangiz, barcha o'zgarishlaringiz saqlanmaydi.",
+  "to": "sana",
+  "create-ad": "Reklama yaratish",
+  "in-moderation": "Tekshiruvda",
+  "user-address": "Toshkent sh., Olmachi ko‘chasi 1-o‘tish 13-bino",
+  "save-to-gallery": "Galleriyaga saqlash ",
+  "description": "Tavsif",
+  "profile": "Profil",
+  "all-ads": "Barcha reklamalar",
+  "contact-information": "Bog'lanish uchun ma'lumot",
+  "description-txt": "Xaridor dinamik burilish chiroqlari, etti yoki sakkiz dyuymli sensorli ekranli multimedia navigatsiya tizimi va ko'p funksiyali rulni o'z ichiga olgan keng imkoniyatlar paketini oladi. Mashina haydovchiga tom ma'noda yordam beradi - haydash va manevr yordamchilari yo'l sharoitlarini (yomg'ir va yorug'lik datchiklari) kuzatib boradi va ko'r joylar doimiy ravishda nazorat qilinadi. To'xtash manevrlarini bajarishda nafaqat to'xtash sensorlari, balki dinamik belgilar chiziqlari bo'lgan orqa ko'rinish kamerasi ham ishlaydi.Xotira funksiyalariga ega o‘rindiqlar, elektr sozlanishi yon nometall va tugmachali dvigatel ishga tushirilishi avtomobildan foydalanishni yanada qulayroq qiladi.",
+  "cars": "Yengil avtomobillar",
+  "seller": "Sotuvchi",
+  "username": "Shoxrux Shomansurov",
+  "footer-txt": "77.uz bozori - bu O'zbekistondagi virtual platforma bo'lib, sotuvchilarni potentsial mijozlar bilan bog'lash orqali sotib olish va sotishni osonlashtiradi.",
+  "bulletin-board": "E'lonlar doskasi",
+  "terms-of-use": "Foydalanish shartlari",
+  "filter": "Filter",
+  "all-rights-reserved": "Barcha huquqlar himoyalangan",
+  "ads-txt": "Sizga kerak bo'lgan barcha toifalarni xaridordan topishingiz mumkin",
+  "region": "Viloyat",
+  "cancellation": "Bekor qilish",
+  "publishing": "Joylash",
+  "required-info": "Kerakli ma'lumotlar",
+  "choose-category": "Toifani tanlang",
+  "first-photo-txt": "Birinchi fotosurat e'lonning muqovasida bo'ladi. Tartibni o'zgartirish uchun torting.",
+  "enter-product-comment": "Mahsulotga tavsif kiriting",
+  "enter-product-price": "Summani kiriting",
+  "enter-name": "Nomini kiriting",
+  "product-price": "Narx",
+  "product-category": "Mahsulot toifasi",
+  "product-name": "Mahsulot nomi",
+  "fullname": "F.I.O",
+  "phone-number": "Telefon raqam",
+  "adres": "Manzil",
+  "agree-txt": "Men maʼlumotlarimdan foydalanish va qayta ishlash shartlariga roziman",
+  "city": "Shahar/tuman",
+
+
+
+  "All": "Hammasi",
+  "vilayats":{
+    "0":{
+      "title": "Andijon viloyati"
+    },
+    "1":{
+      "title": "Buxoro viloyati"
+    },
+    "2":{
+      "title": "Jizzax viloyati"
+    },
+    "3":{
+      "title": "Qashqadaryo viloyati"
+    },
+    "4":{
+      "title": "Navoiy viloyati"
+    },
+    "5":{
+      "title": "Namangan viloyati"
+    },
+    "6":{
+      "title": "Samarkand viloyati"
+    },
+    "7":{
+      "title": "Sirdaryo viloyati"
+    },
+    "8":{
+      "title": "Surxondaryo viloyati"
+    },
+    "9":{
+      "title": "Toshkent shahri"
+    },
+    "10":{
+      "title": "Toshkent viloyati"
+    },
+    "11":{
+      "title": "Farg'ona viloyati"
+    },
+    "12":{
+      "title": "Xorazm viloyati"
+    },
+    "13":{
+      "title": "Qoraqalpog'iston Respoblikasi"
+    } 
+  },
+
+  "cities":{
+    "0":{
+      "title": "Bektemir shahri"
+    },
+    "1":{
+      "title": "Urgut shahri"
+    },
+    "2":{
+      "title": "Qo'qon shahri"
+    },
+    "3":{
+      "title": "Asaka shahri"
+    },
+    "4":{
+      "title": "G'ijduvon shahri"
+    },
+    "5":{
+      "title": "Sho'rchi tumani"
+    },
+    "6":{
+      "title": "Shaxrisabz shahri"
+    },
+    "7":{
+      "title": "Navoiy tumani"
+    },
+    "8":{
+      "title": "Pop shahri"
+    },
+    "9":{
+      "title": "Qibray tumani"
+    },
+    "10":{
+      "title": "Chust shahri"
+    },
+    "11":{
+      "title": "Chiroqchi tumani"
+    },
+    "12":{
+      "title": "Parkent tumani"
+    },
+    "13":{
+      "title": "Nukus shahri"
+    } 
+  },
+
+  "sort": "Saralash",
+  "cheapest-first": "Arzonlaridan boshlab",
+  "oldest-first": "Eskilaridan boshlab",
+  "newest-first": "Yangilaridan boshlab",
+  "apply-filter": "Filterlashni tasdiqlash",
+  "subcategories": {
+    "title": "Pastki toifalar",
+    "0": {
+      "title": "Barcha bo'limlar"
+    },
+    "1": {
+      "title": "Parfyumeriya"
+    },
+    "2": {
+      "title": "Noutbuklar va planshetlar"
+    },
+    "3": {
+      "title": "Yuz"
+    },
+    "4": {
+      "title": "Tana va hammom"
+    },
+    "5": {
+      "title": "Makiyaj"
+    },
+    "6": {
+      "title": "Erkaklar uchun"
+    }
+  },
+  "notebooks-and-tablets": "Noutbuklar va planshetlar",
+  "nothing-found": "Hech narsa topilmadi",
+  "not-found-txt": "Voy! So‘rovingiz bo‘yicha hech qanday mos natija topilmadi.",
+  "forgot-password": "Parolni unutdingizmi?",
+  "apply-now": "Hozir murojat qiling",
+  "want-to-be-seller": "Sotuvchi bo'lishni xohlaysizmi?",
+  "enter-password": "Parolni kiriting",
+  "enter-login": "Loginni kiriting",
+  "regions": {
+    "0": {
+      "location": "Toshkent sh."
+    },
+    "1": {
+      "location": "Samarqand sh."
+    },
+    "2": {
+      "location": "Farg'ona sh."
+    },
+    "3": {
+      "location": "Andijon sh."
+    },
+    "4": {
+      "location": "Buxoro sh."
+    },
+    "5": {
+      "location": "Jizzax sh."
+    },
+    "6": {
+      "location": "Qashqadaryo sh."
+    },
+    "7": {
+      "location": "Navoiy sh."
+    },
+    "8": {
+      "location": "Namangan sh."
+    },
+    "9": {
+      "location": "Toshkent sh."
+    },
+    "10": {
+      "location": "Farg'ona sh."
+    },
+    "11": {
+      "location": "Navoiy sh."
+    }
+  },
+  "postedDate": {
+    "0": {
+      "time": "Bugun"
+    },
+    "1": {
+      "time": "Kecha"
+    },
+    "2": {
+      "time": "1 hafta oldin"
+    },
+    "3": {
+      "time": "3 oy oldin"
+    },
+    "4": {
+      "time": "1 yil oldin"
+    },
+    "5": {
+      "time": "Kecha"
+    },
+    "6": {
+      "time": "5 oy oldin"
+    },
+    "7": {
+      "time": "2 hafta oldin"
+    },
+    "8": {
+      "time": "Bugun"
+    },
+    "9": {
+      "time": "Kecha"
+    },
+    "10": {
+      "time": "Bugun"
+    },
+    "11": {
+      "time": "1 hafta oldin"
+    }
+  },
+  "category": {
+    "input-placeholder": "Nimani izlayapsiz?",
+    "search": "Qidirish",
+    "ads": "reklamalar",
+    "title": "Kategoriyalar",
+    "description-text": "Sizga kerak bo'lgan barcha toifalarni xaridordan topishingiz mumkin",
+    "0": {
+      "title": "Ayollar uchun",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "1": {
+      "title": "Go'zallik",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "2": {
+      "title": "Maishiy texnika",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "3": {
+      "title": "Erkaklar uchun",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "4": {
+      "title": "Salomatlik",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "5": {
+      "title": "Elektronika",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "6": {
+      "title": "Bolalar tovarlari",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "7": {
+      "title": "Zargarlik buyumlari",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "8": {
+      "title": "Uy buyumlari",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "9": {
+      "title": "Oyoq buyumlar",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "10": {
+      "title": "O'quv qurollari",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "11": {
+      "title": "Sport va ta'til",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "12": {
+      "title": "Avtomobil mahsulotlari",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "13": {
+      "title": "Yangi yengil avtomobillar",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "14": {
+      "title": "Mototransport",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "15": {
+      "title": "Dachalar, bog'lar va dalalar",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "16": {
+      "title": "Shaxsiy gigiyena",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "17": {
+      "title": "Aksesuarlar",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "18": {
+      "title": "Uy kimyoviy moddalari va shaxsiy gigiena",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "19": {
+      "title": "Qurilish va ta'mirlash",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    },
+    "20": {
+      "title": "Sumkalar va chamadonlar",
+      "subcategory": {
+        "0": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "1": {
+          "title": "Noutbuklar"
+        },
+        "2": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "3": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "4": {
+          "title": "Telefon g'iloflari"
+        },
+        "5": {
+          "title": "Sistema bloklar"
+        },
+        "6": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "7": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "8": {
+          "title": "Wi-fi routerlari"
+        },
+        "9": {
+          "title": "Soatlar va smartsoatlar uchun ramkalar"
+        },
+        "10": {
+          "title": "Noutbuklar"
+        },
+        "11": {
+          "title": "Kompyuterlar uchun sichqonchalar"
+        },
+        "12": {
+          "title": "Imaclar uchun klaviaturalar"
+        },
+        "13": {
+          "title": "Telefon g'iloflari"
+        },
+        "14": {
+          "title": "Sistema bloklar"
+        },
+        "15": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        },
+        "16": {
+          "title": "Telefon uchun poverbanklar"
+        },
+        "17": {
+          "title": "Wi-fi routerlari"
+        },
+        "18": {
+          "title": "Telefon g'iloflari"
+        },
+        "19": {
+          "title": "Sistema bloklar"
+        },
+        "20": {
+          "title": "Noutbuk va macbooklar uchun SSD lar"
+        }
+      }
+    }
+  },
+  "defaultRecommended": {
+    "0": {
+      "title": "Muzlatgichlar"
+    },
+    "1": {
+      "title": "Televizorlar"
+    },
+    "2": {
+      "title": "Telefonlar"
+    },
+    "3": {
+      "title": "Maishiy texnika"
+    },
+    "4": {
+      "title": "Isitish pechlari"
+    },
+    "5": {
+      "title": "Oshxona jihozlari"
+    },
+    "6": {
+      "title": "Akkumlyatorlar"
+    }
+  }
+}
